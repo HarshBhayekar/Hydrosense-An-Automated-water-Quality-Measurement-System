@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181785269437",
+    "project_id": "hydrosenseproj",
+    "storage_bucket": "hydrosenseproj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181785269437:android:5edea9032ca41c2ebdd3d4",
+        "android_client_info": {
+          "package_name": "com.ex.hydrosensenew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0GLKGHG7Q0dui5Pmdnug4ODB1XP1AHrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
